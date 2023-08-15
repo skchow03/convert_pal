@@ -1,6 +1,6 @@
 # Palette Conversion Utility: `convert_pal.py`
 
-This utility allows users to convert image files (MIP, PMP, 3DO) based on provided color palettes. The color palettes are extracted from PCX files (i.e. SUNNY.PCX).
+This utility allows users to convert image and 3D model files (MIP, PMP, 3DO) based on provided color palettes. The color palettes are extracted from PCX files (i.e. SUNNY.PCX).
 
 ## Features
 
